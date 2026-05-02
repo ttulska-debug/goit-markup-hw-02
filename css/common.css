@@ -14,6 +14,11 @@ a {
     color: #2E2F42;
 }
 
+a:hover,
+a:focus {
+    color: #4D5AE5;
+}
+
 .color-accent {
     color:#4D5AE5;}
 
