@@ -1,5 +1,6 @@
 .header-logo {
     font-family: "Raleway", sans-serif;
+    color: #2E2F42;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.33;
@@ -15,25 +16,13 @@
     letter-spacing: 0.02em;
 }
 
-.header-nav-menu:hover,
-.header-nav-menu:focus {
-    color: #404BBF;
-}
-
 .info-adress-mail,
 .info-adress-tel {
-    color: #2E2F42;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
-
-.info-adress-mail,
-.info-adress-tel:hover,
-.info-adress-mail,
-.info-adress-tel:focus {
-    color: #404BBF;
+    font-style: normal;
 }
 
 

@@ -1,4 +1,4 @@
-footer {
+.footer-block {
     background-color: #2E2F42;
     color: #f4f4fd;
 }
@@ -13,5 +13,5 @@ footer {
     text-transform: uppercase;
 }
 .footer-text {
-    color: #FFFFFF;
+    color: #F4F4FD;
 }

@@ -1,11 +1,11 @@
-#hero {
+.hero-block {
     background-color: #2E2F42;
 }
 .hero-title {
     color: #FFFFFF;
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.7;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
 }
