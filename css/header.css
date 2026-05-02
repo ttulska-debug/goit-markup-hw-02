@@ -26,4 +26,14 @@
     font-style: normal;
 }
 
+.header-nav-menu:hover,
+.header-nav-menu:focus {
+    color: #404BBF;
+}
 
+.info-adress-mail,
+.info-adress-tel:hover,
+.info-adress-mail,
+.info-adress-tel:focus {
+    color: #404BBF;
+}

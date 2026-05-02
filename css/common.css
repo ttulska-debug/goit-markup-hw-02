@@ -9,19 +9,13 @@ ol {
     list-style-type: none;
 }
 
-a {
-    text-decoration: none;
-    color: #2E2F42;
-}
-
-a:hover,
-a:focus {
-    color: #404BBF;
-}
-
 .color-accent {
     color:#4D5AE5;}
 
+ a {
+    text-decoration: none;
+    color: #2E2F42;
+}
 
 h2 {
     color: #2e2f42;
