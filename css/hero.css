@@ -1,0 +1,29 @@
+#hero {
+    background-color: #2E2F42;
+}
+.hero-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.7;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.button-hero {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    
+}
+
+.button-hero:hover,
+.button-hero:focus {
+    background-color: #404BBF;
+}
